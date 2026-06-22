@@ -1,2 +1,15 @@
-# azure-storage-project
-Azure Storage Account and Blob Storage implementation project
+## Screenshots
+
+
+
+### Blob Container
+
+!Blob Container
+
+### Storage Account Overview
+
+![Storage Account Overview](storage-overview.png)
+
+### Uploaded Files
+
+uploaded-files.png
